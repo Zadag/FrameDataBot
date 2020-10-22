@@ -8,7 +8,7 @@ client.once("ready", () => {
 });
 
 
-client.login("NzQ3NjE5OTgwNzYxMTA0NDI0.X0RhXQ.2PgMAcBUowIAfx6QQLgOP1cqK6M");
+client.login("------------------------------------");
 
 client.on("message", message => {
     if (!message.content.startsWith(prefix) || message.author.bot) return;
